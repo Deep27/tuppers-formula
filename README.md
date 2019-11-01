@@ -1,4 +1,4 @@
-#Tupper's self-referential formula
+# Tupper's self-referential formula
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/f6c125f05840eafd500bf6be74df741b770e2245)
 
